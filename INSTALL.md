@@ -31,7 +31,7 @@
 #### PowerShell Script
 ```powershell
 # Download and install automatically
-Invoke-WebRequest -Uri "https://github.com/yourusername/mini-mouse-cursor/releases/latest/download/Mini-Mouse-Cursor.zip" -OutFile "cursors.zip"
+Invoke-WebRequest -Uri "https://github.com/SURJO99exe/small-cursor/releases/latest/download/Small-Cursor.zip" -OutFile "cursors.zip"
 Expand-Archive -Path "cursors.zip" -DestinationPath "."
 Start-Process -FilePath "cmd.exe" -ArgumentList "/c", "mini-mouse-cursor.inf" -Verb RunAs
 ```
@@ -118,8 +118,8 @@ reg delete "HKCU\Control Panel\Cursors\Schemes" /v "Mini Mouse Cursor" /f
 If you encounter issues:
 
 1. **Check** [Troubleshooting Guide](#-troubleshooting)
-2. **Search** [Existing Issues](https://github.com/yourusername/mini-mouse-cursor/issues)
-3. **Create** [New Issue](https://github.com/yourusername/mini-mouse-cursor/issues/new)
+2. **Search** [Existing Issues](https://github.com/SURJO99exe/small-cursor/issues)
+3. **Create** [New Issue](https://github.com/SURJO99exe/small-cursor/issues/new)
 4. **Contact** [Tech World YouTube](https://www.youtube.com/channel/UCzfZO3XvmmR66bKcpJuh8Dg/featured?view_as=subscriber)
 
 ---

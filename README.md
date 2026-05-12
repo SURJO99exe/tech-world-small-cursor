@@ -9,7 +9,7 @@
 
 *A clean, minimalist cursor theme for Windows users who prefer simplicity and elegance.*
 
-[⭐ Star this repo](https://github.com/yourusername/mini-mouse-cursor) • [🐛 Report Issue](https://github.com/yourusername/mini-mouse-cursor/issues) • [💬 Discussion](https://github.com/yourusername/mini-mouse-cursor/discussions)
+[⭐ Star this repo](https://github.com/SURJO99exe/small-cursor) • [🐛 Report Issue](https://github.com/SURJO99exe/small-cursor/issues) • [💬 Discussion](https://github.com/SURJO99exe/small-cursor/discussions)
 
 </div>
 
@@ -43,7 +43,7 @@
 ## 🚀 Installation
 
 ### Method 1: Automatic Installation (Recommended)
-1. Download the latest release from the [Releases page](https://github.com/yourusername/mini-mouse-cursor/releases)
+1. Download the latest release from the [Releases page](https://github.com/SURJO99exe/small-cursor/releases)
 2. Extract the ZIP file
 3. Right-click on `mini-mouse-cursor.inf` and select **"Install"**
 4. Open Windows Settings → Personalization → Themes → Mouse cursor
@@ -97,7 +97,7 @@ This cursor theme is designed to be minimal and clean. If you'd like to suggest 
 - 📏 **Size Variants** - Suggest medium or large versions
 - 🎭 **Style Variants** - Propose different design styles
 
-[Open an Enhancement Request](https://github.com/yourusername/mini-mouse-cursor/issues/new?template=enhancement.md)
+[Open an Enhancement Request](https://github.com/SURJO99exe/small-cursor/issues/new?template=enhancement.md)
 
 ## 🤝 Contributing
 
@@ -113,7 +113,7 @@ Contributions are welcome! Here's how you can help:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/mini-mouse-cursor.git
+git clone https://github.com/SURJO99exe/small-cursor.git
 cd mini-mouse-cursor
 
 # Make your changes
@@ -136,10 +136,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/tech-world-small-cursor?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/tech-world-small-cursor?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/tech-world-small-cursor)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/tech-world-small-cursor)
+![GitHub stars](https://img.shields.io/github/stars/SURJO99exe/small-cursor?style=social)
+![GitHub forks](https://img.shields.io/github/forks/SURJO99exe/small-cursor?style=social)
+![GitHub issues](https://img.shields.io/github/issues/SURJO99exe/small-cursor)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/SURJO99exe/small-cursor)
 
 </div>
 
