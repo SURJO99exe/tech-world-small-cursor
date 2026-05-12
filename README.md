@@ -1,4 +1,4 @@
-# 🎯 Tech World Small Cursor - Minimalist Windows Cursor Theme
+# 🐭 Mini Mouse Cursor - Minimalist Windows Cursor Theme
 
 <div align="center">
 
@@ -9,7 +9,7 @@
 
 *A clean, minimalist cursor theme for Windows users who prefer simplicity and elegance.*
 
-[⭐ Star this repo](https://github.com/yourusername/tech-world-small-cursor) • [🐛 Report Issue](https://github.com/yourusername/tech-world-small-cursor/issues) • [💬 Discussion](https://github.com/yourusername/tech-world-small-cursor/discussions)
+[⭐ Star this repo](https://github.com/yourusername/mini-mouse-cursor) • [🐛 Report Issue](https://github.com/yourusername/mini-mouse-cursor/issues) • [💬 Discussion](https://github.com/yourusername/mini-mouse-cursor/discussions)
 
 </div>
 
@@ -43,11 +43,11 @@
 ## 🚀 Installation
 
 ### Method 1: Automatic Installation (Recommended)
-1. Download the latest release from the [Releases page](https://github.com/yourusername/tech-world-small-cursor/releases)
+1. Download the latest release from the [Releases page](https://github.com/yourusername/mini-mouse-cursor/releases)
 2. Extract the ZIP file
-3. Right-click on `Ninja tech.inf` and select **"Install"**
+3. Right-click on `mini-mouse-cursor.inf` and select **"Install"**
 4. Open Windows Settings → Personalization → Themes → Mouse cursor
-5. Select **"Tech World_Small"** from the dropdown menu
+5. Select **"Mini Mouse Cursor"** from the dropdown menu
 6. Click **"Apply"**
 
 ### Method 2: Manual Installation
@@ -59,26 +59,26 @@
 ## 📁 File Structure
 
 ```
-tech-world-small-cursor/
+mini-mouse-cursor/
 ├── README.md                 # This file
 ├── LICENSE                   # MIT License
-├── Ninja tech.inf           # Windows installer configuration
+├── mini-mouse-cursor.inf   # Windows installer configuration
 ├── Readme Please.txt        # Original readme
-├── aero_arrow.cur           # Normal select
-├── aero_busy.ani            # Busy (animated)
-├── aero_ew.cur              # Horizontal resize
-├── aero_helpsel.cur         # Help select
-├── aero_link.cur            # Link select
-├── aero_move.cur            # Move
-├── aero_nesw.cur            # Diagonal resize (NE-SW)
-├── aero_ns.cur              # Vertical resize
-├── aero_nwse.cur            # Diagonal resize (NW-SE)
-├── aero_pen.cur             # Handwriting
-├── aero_unavail.cur         # Unavailable
-├── aero_up.cur              # Alternate select
-├── aero_working.ani         # Working (animated)
-├── beam_r.cur               # Text select
-└── cross_r.cur              # Precision select
+├── mini_mouse_arrow.cur           # Normal select
+├── mini_mouse_busy.ani            # Busy (animated)
+├── mini_mouse_ew.cur              # Horizontal resize
+├── mini_mouse_helpsel.cur         # Help select
+├── mini_mouse_link.cur            # Link select
+├── mini_mouse_move.cur            # Move
+├── mini_mouse_nesw.cur            # Diagonal resize (NE-SW)
+├── mini_mouse_ns.cur              # Vertical resize
+├── mini_mouse_nwse.cur            # Diagonal resize (NW-SE)
+├── mini_mouse_pen.cur             # Handwriting
+├── mini_mouse_unavail.cur         # Unavailable
+├── mini_mouse_up.cur              # Alternate select
+├── mini_mouse_working.ani         # Working (animated)
+├── mini_mouse_beam.cur               # Text select
+└── mini_mouse_cross.cur              # Precision select
 ```
 
 ## 🛠️ Technical Details
@@ -97,7 +97,7 @@ This cursor theme is designed to be minimal and clean. If you'd like to suggest 
 - 📏 **Size Variants** - Suggest medium or large versions
 - 🎭 **Style Variants** - Propose different design styles
 
-[Open an Enhancement Request](https://github.com/yourusername/tech-world-small-cursor/issues/new?template=enhancement.md)
+[Open an Enhancement Request](https://github.com/yourusername/mini-mouse-cursor/issues/new?template=enhancement.md)
 
 ## 🤝 Contributing
 
@@ -113,8 +113,8 @@ Contributions are welcome! Here's how you can help:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/tech-world-small-cursor.git
-cd tech-world-small-cursor
+git clone https://github.com/yourusername/mini-mouse-cursor.git
+cd mini-mouse-cursor
 
 # Make your changes
 git add .
@@ -153,7 +153,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**[⬆️ Back to Top](#-tech-world-small-cursor---minimalist-windows-cursor-theme)**
+**[⬆️ Back to Top](#-mini-mouse-cursor---minimalist-windows-cursor-theme)**
 
 Made with ❤️ by [Tech World](https://www.youtube.com/channel/UCzfZO3XvmmR66bKcpJuh8Dg/featured?view_as=subscriber)
 

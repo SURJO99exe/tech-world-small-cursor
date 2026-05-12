@@ -7,9 +7,9 @@
 #### Method 1: One-Click Install ⭐
 1. **Download** the latest release
 2. **Extract** the ZIP file
-3. **Right-click** `Ninja tech.inf` → **"Install"**
+3. **Right-click** `mini-mouse-cursor.inf` → **"Install"**
 4. **Open** Windows Settings → Personalization → Themes → Mouse cursor
-5. **Select** "Tech World_Small" from the dropdown
+5. **Select** "Mini Mouse Cursor" from the dropdown
 6. **Click** "Apply" ✅
 
 #### Method 2: Manual Install
@@ -17,7 +17,7 @@
 2. **Open** Windows Settings → Personalization → Themes → Mouse cursor
 3. **Click** "Browse" → Navigate to extracted folder
 4. **Select** each cursor type manually
-5. **Save** as "Tech World_Small"
+5. **Save** as "Mini Mouse Cursor"
 
 ### 🔧 Windows Versions Supported
 - ✅ Windows 11
@@ -31,18 +31,18 @@
 #### PowerShell Script
 ```powershell
 # Download and install automatically
-Invoke-WebRequest -Uri "https://github.com/yourusername/tech-world-small-cursor/releases/latest/download/Tech-World-Small-Cursor.zip" -OutFile "cursors.zip"
+Invoke-WebRequest -Uri "https://github.com/yourusername/mini-mouse-cursor/releases/latest/download/Mini-Mouse-Cursor.zip" -OutFile "cursors.zip"
 Expand-Archive -Path "cursors.zip" -DestinationPath "."
-Start-Process -FilePath "cmd.exe" -ArgumentList "/c", "Ninja tech.inf" -Verb RunAs
+Start-Process -FilePath "cmd.exe" -ArgumentList "/c", "mini-mouse-cursor.inf" -Verb RunAs
 ```
 
 #### Command Prompt (Admin)
 ```cmd
 # Navigate to extracted folder
-cd "path\to\Tech World Small Cursor"
+cd "path\to\Mini Mouse Cursor"
 
 # Install via INF file
-rundll32 setupapi,InstallHinfSection DefaultInstall 132 Ninja tech.inf
+rundll32 setupapi,InstallHinfSection DefaultInstall 132 mini-mouse-cursor.inf
 ```
 
 ## 🎯 Verification
@@ -50,7 +50,7 @@ rundll32 setupapi,InstallHinfSection DefaultInstall 132 Ninja tech.inf
 After installation, verify the cursors are working:
 
 1. **Open** Mouse Properties in Windows Settings
-2. **Select** "Tech World_Small" scheme
+2. **Select** "Mini Mouse Cursor" scheme
 3. **Test** each cursor type:
    - 🖱️ Move mouse over different areas
    - 📝 Hover over text fields
@@ -110,7 +110,7 @@ After installation, verify the cursors are working:
 ### Method 2: Registry Clean
 ```cmd
 # Remove from registry (advanced users)
-reg delete "HKCU\Control Panel\Cursors\Schemes" /v "Tech World_Small" /f
+reg delete "HKCU\Control Panel\Cursors\Schemes" /v "Mini Mouse Cursor" /f
 ```
 
 ## 📞 Support
@@ -118,8 +118,8 @@ reg delete "HKCU\Control Panel\Cursors\Schemes" /v "Tech World_Small" /f
 If you encounter issues:
 
 1. **Check** [Troubleshooting Guide](#-troubleshooting)
-2. **Search** [Existing Issues](https://github.com/yourusername/tech-world-small-cursor/issues)
-3. **Create** [New Issue](https://github.com/yourusername/tech-world-small-cursor/issues/new)
+2. **Search** [Existing Issues](https://github.com/yourusername/mini-mouse-cursor/issues)
+3. **Create** [New Issue](https://github.com/yourusername/mini-mouse-cursor/issues/new)
 4. **Contact** [Tech World YouTube](https://www.youtube.com/channel/UCzfZO3XvmmR66bKcpJuh8Dg/featured?view_as=subscriber)
 
 ---

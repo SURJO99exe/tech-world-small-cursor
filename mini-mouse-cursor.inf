@@ -1,0 +1,53 @@
+By Mini Mouse Cursor
+[Version]
+signature="$CHICAGO$"
+
+[DefaultInstall]
+CopyFiles = Scheme.Cur, Scheme.Txt
+AddReg    = Scheme.Reg
+
+[DestinationDirs]
+Scheme.Cur = 10,"%CUR_DIR%"
+Scheme.Txt = 10,"%CUR_DIR%"
+
+[Scheme.Reg]
+HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",,"%10%\%CUR_DIR%\%pointer%,%10%\%CUR_DIR%\%help%,%10%\%CUR_DIR%\%work%,%10%\%CUR_DIR%\%busy%,%10%\%CUR_DIR%\%Cross%,%10%\%CUR_DIR%\%Text%,%10%\%CUR_DIR%\%Hand%,%10%\%CUR_DIR%\%Unavailiable%,%10%\%CUR_DIR%\%Vert%,%10%\%CUR_DIR%\%Horz%,%10%\%CUR_DIR%\%Dgn1%,%10%\%CUR_DIR%\%Dgn2%,%10%\%CUR_DIR%\%move%,%10%\%CUR_DIR%\%alternate%,%10%\%CUR_DIR%\%link%"
+
+; -- Common Information
+
+[Scheme.Cur]
+"mini_mouse_arrow.cur"
+"mini_mouse_helpsel.cur"
+"mini_mouse_working.ani"
+"mini_mouse_busy.ani"
+"mini_mouse_cross.cur"
+"mini_mouse_beam.cur"
+"mini_mouse_pen.cur"
+"mini_mouse_unavail.cur"
+"mini_mouse_ns.cur"
+"mini_mouse_ew.cur"
+"mini_mouse_nwse.cur"
+"mini_mouse_nesw.cur"
+"mini_mouse_move.cur"
+"mini_mouse_up.cur"
+"mini_mouse_link.cur"
+
+[Strings]
+CUR_DIR		= "Mini_Mouse_Cursor"
+SCHEME_NAME	= "Mini Mouse Cursor"
+pointer		= "mini_mouse_arrow.cur"
+help		= "mini_mouse_helpsel.cur"
+work		= "mini_mouse_working.ani"
+busy		= "mini_mouse_busy.ani"
+cross		= "mini_mouse_cross.cur"
+text		= "mini_mouse_beam.cur"
+hand		= "mini_mouse_pen.cur"
+unavailiable	= "mini_mouse_unavail.cur"
+vert		= "mini_mouse_ns.cur"
+horz		= "mini_mouse_ew.cur"
+dgn1		= "mini_mouse_nwse.cur"
+dgn2		= "mini_mouse_nesw.cur"
+move		= "mini_mouse_move.cur"
+alternate	                     = "mini_mouse_up.cur"
+link		= "mini_mouse_link.cur"
+
